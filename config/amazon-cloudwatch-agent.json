@@ -6,26 +6,8 @@
   "metrics": {
     "namespace": "OnPremServer",
     "metrics_collected": {
-      "cpu": {
-        "measurement": [
-          "cpu_usage_idle",
-          "cpu_usage_user",
-          "cpu_usage_system"
-        ],
-        "totalcpu": true
-      },
       "mem": {
-        "measurement": [
-          "mem_used_percent"
-        ]
-      },
-      "disk": {
-        "measurement": [
-          "used_percent"
-        ],
-        "resources": [
-          "*"
-        ]
+        "measurement": ["mem_used_percent"]
       }
     }
   }
