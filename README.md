@@ -83,10 +83,6 @@ Screenshot:
 
 * Added EC2 CPU metric
 * Added On-Prem memory metric
-
-Screenshot:
-![Dashboard](screenshots/10_hybrid_dashboard.png)
-
 ---
 
 ### 6️ Alert Configuration
