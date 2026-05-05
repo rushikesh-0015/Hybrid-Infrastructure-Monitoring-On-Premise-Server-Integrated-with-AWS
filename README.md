@@ -56,7 +56,7 @@ This project demonstrates a **Hybrid Monitoring System** where:
 * Sent memory metrics to AWS
 
 Screenshot:
-![Agent Running](screenshots/3_agent_running.png)
+![Agent Running](screenshots/3_agent_running.jpeg)
 
 ---
 
